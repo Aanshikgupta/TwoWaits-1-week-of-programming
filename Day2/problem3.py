@@ -1,4 +1,4 @@
-n=int(input())
+n=8
 for i in range(n):
     for j in range(n):
         if((i==j) or (i+j==n-1)):
