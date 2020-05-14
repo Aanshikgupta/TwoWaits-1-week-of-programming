@@ -1,4 +1,4 @@
-a=3;b=1;n=int(input("Enter number"))
+a=3;b=1;n=5
 for i in range(n,0,-2):
     for j in range(1,i+1):
         if(j%2!=0):
