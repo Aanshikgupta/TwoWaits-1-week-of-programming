@@ -1,4 +1,4 @@
-n=int(input())
+n=5
 for i in range(n):
     print("*"*(n-1-i),end="")
     print("  "*i,end="")
